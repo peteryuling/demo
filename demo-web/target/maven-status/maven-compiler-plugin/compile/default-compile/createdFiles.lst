@@ -1,0 +1,4 @@
+com\alleasier\hcs\demo\rest\JaxRsActivator.class
+com\alleasier\hcs\demo\controller\MemberController.class
+com\alleasier\hcs\demo\util\WebResources.class
+com\alleasier\hcs\demo\rest\MemberResourceRESTService.class

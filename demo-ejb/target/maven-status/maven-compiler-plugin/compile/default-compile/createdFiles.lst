@@ -1,0 +1,5 @@
+com\alleasier\hcs\demo\service\MemberRegistration.class
+com\alleasier\hcs\demo\data\MemberRepository.class
+com\alleasier\hcs\demo\data\MemberListProducer.class
+com\alleasier\hcs\demo\util\Resources.class
+com\alleasier\hcs\demo\model\Member.class
